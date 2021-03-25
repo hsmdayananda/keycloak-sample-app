@@ -7,9 +7,7 @@ import org.keycloak.provider.ProviderConfigProperty;
 import org.keycloak.representations.AccessToken;
 
 
-import javax.json.Json;
-import javax.json.JsonArrayBuilder;
-import javax.json.JsonObjectBuilder;
+
 import java.util.ArrayList;
 import java.util.List;
 
